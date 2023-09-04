@@ -6,6 +6,7 @@
 /Assets/AssetStoreTools*
 /Assets/_TerrainAutoUpgrade*
 /[Ll]ogs/
+/UserSettings/
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -37,8 +38,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-MomentumCatchMechanic/Library/
+/Library/
 
-MomentumCatchMechanic/.vs/
+/.vs/
 
-MomentumCatchMechanic/obj/
+/obj/
